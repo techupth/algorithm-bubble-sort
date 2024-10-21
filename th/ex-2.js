@@ -3,7 +3,7 @@
     - รับ Parameter 1 ตัวคือ studentsInfo
         1. studentsInfo เป็น Array ของ Objects ที่บรรจุข้อมูลนักเรียน โดย Object แต่ละอันจะมี Key 3 ตัวได้แก่ firstname , lastname และ score 
     - Function นี้จะเรียงลำดับ Object ภายใน Array ตามคะแนนสอบจากมากไปน้อย โดยใช้ Bubble Sort Algorithm และ Return studentsInfo ออกมา
-    - เมื่อ Algorithm นี้ทำงาน จะต้องเห็นผลลัพธ์ดังนี้
+    - เมื่อ Algorithm นี้ทำงาน จะต้องเห็นผลลัพธ์ด้านล่าง
 */
 
 // Start coding here
