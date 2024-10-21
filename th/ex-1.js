@@ -3,7 +3,6 @@
     - รับ Parameter 1 ตัวคือ numbers
         1. numbers เป็น Array ที่บรรจุตัวเลขที่ยังไม่เรียงลำดับ
     - Function นี้จะเรียงข้อมูลใน numbers จากน้อยไปมาก โดยใช้ Bubble Sort Algorithm และ Return numbers ออกมา
-    - Function นี้จะนำตัวเลขแต่ละตัวที่บรรจุไว้ใน matrix มาคูณ 2 และบรรจุลงใน Array ใหม่จากนั้นจะ Return ค่า Array ใหม่ออกมา
     - เมื่อ Algorithm นี้ทำงาน จะต้องเห็นผลลัพธ์ด้านล่าง
 */
 
